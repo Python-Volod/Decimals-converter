@@ -5,5 +5,5 @@
 
 ### Usage
 run it with python3 interpreter like that:
-$ python3 bicalc.py
+`$ python3 bicalc.py`
 and be not ashamed to create issues if this doesnt work for on your computer.
